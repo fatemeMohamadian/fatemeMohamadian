@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Mohamadian</h1>
-<h2 align="center">frontend developer</h2>
+<h2 align="center">Frontend Developer</h2>
 <h3 align="center">😃I'm Ready for New Experiences😃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatememohamadian&label=Profile%20views&color=0e75b6&style=flat" alt="fatememohamadian" /> </p>
